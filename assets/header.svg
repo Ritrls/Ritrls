@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Ritrls — Small ideas, shipped.</title>
+  <desc id="desc">深蓝与薄荷绿的独立开发者主页横幅</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1526"/><stop offset="1" stop-color="#14302f"/></linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#bbf4d7" opacity=".13"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#dots)"/>
+  <path d="M58 48h32M58 48v32M1142 212h-32M1142 212v-32" fill="none" stroke="#bbf4d7" stroke-width="2" opacity=".6"/>
+  <text x="88" y="83" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="5" fill="#bbf4d7">INDEPENDENT BUILDER</text>
+  <text x="84" y="156" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="2" fill="#f0faf4">RITRLS<tspan fill="#bbf4d7">.</tspan></text>
+  <text x="89" y="197" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#a9c6c4">Small ideas, shipped.</text>
+  <g transform="translate(866 52)" stroke="#bbf4d7" fill="none">
+    <rect width="230" height="156" rx="12" opacity=".38"/>
+    <path d="M0 31h230" opacity=".38"/><circle cx="18" cy="16" r="3" fill="#bbf4d7"/><circle cx="31" cy="16" r="3" opacity=".5"/><circle cx="44" cy="16" r="3" opacity=".5"/>
+    <path d="m64 70-23 25 23 25m100-50 23 25-23 25m-36-56-22 62" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

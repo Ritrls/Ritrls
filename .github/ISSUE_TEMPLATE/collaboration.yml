@@ -1,0 +1,35 @@
+name: 商务合作
+description: AI 应用原型、网页互动玩法或 RunningHub 集成
+title: "[合作] "
+body:
+  - type: markdown
+    attributes:
+      value: "感谢关注。此页面公开，请勿填写 API Key、账号密码或保密资料。可以先介绍合作方向，再确认沟通方式。"
+  - type: dropdown
+    id: direction
+    attributes:
+      label: 合作方向
+      options:
+        - AI 应用原型
+        - 网页游戏 / 互动体验
+        - RunningHub 集成
+        - 其他开发合作
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: 想实现什么
+      description: 请简要说明目标、使用场景与预期交付。
+    validations:
+      required: true
+  - type: textarea
+    id: schedule
+    attributes:
+      label: 时间与预算范围
+      description: 有大致范围即可，暂不确定也可以说明。
+  - type: input
+    id: contact
+    attributes:
+      label: 可公开的联系渠道
+      description: 可填写工作邮箱或联系链接，也可以在这个 Issue 继续讨论。
