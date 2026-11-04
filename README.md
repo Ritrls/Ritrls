@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" alt="Ritrls — small ideas, shipped" width="100%" />
 
-<img src="assets/avatar.png" width="112" alt="Ritrls 的柴犬开发者头像" />
+<img src="assets/avatar.jpg" width="112" alt="Ritrls 的柴犬开发者头像" />
 
 ### Ritrls · 独立开发者
 
